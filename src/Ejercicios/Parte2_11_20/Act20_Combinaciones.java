@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 20. Programa que encuentra un método recursivo para generar todas las
  * combinaciones de X elementos enteros de un arreglo.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act20_Combinaciones {
 

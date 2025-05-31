@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 18. Programa recursivo para sumar dos matrices del mismo tamaño.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act18_SumaMatrices {
 

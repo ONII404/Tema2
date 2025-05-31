@@ -7,7 +7,6 @@ import java.util.Scanner;
  * serie de Fibonacci.
  *
  * Erick Humberto Rojas Teran.
- *
  */
 public class Act02_Fibonacci {
 

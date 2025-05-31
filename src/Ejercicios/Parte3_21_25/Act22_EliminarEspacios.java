@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 22. Establece un programa con una función recursiva que elimine todos los
  * espacios en blanco de una cadena de texto.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act22_EliminarEspacios {
 

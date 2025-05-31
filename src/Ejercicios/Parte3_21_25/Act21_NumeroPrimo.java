@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 21. Programa con una función recursiva que determine si un número entero es
  * primo.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act21_NumeroPrimo {
 

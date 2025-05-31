@@ -6,8 +6,7 @@ import java.util.Scanner;
  * 1. Determina un método para calcular el factorial de un número entero
  * positivo utilizando recursividad.
  *
- * Erick Humberto Rojas Teran
- *
+ * Erick Humberto Rojas Teran.
  */
 public class Act01_FactorialNumero {
 

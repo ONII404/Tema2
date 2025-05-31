@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 7. Realiza un programa con una función recursiva para calcular la potencia de
  * un número entero (base^exponente).",
  *
- * @author Erick Humberto Rojas Teran
+ * Erick Humberto Rojas Teran.
  */
 public class Act07_PotenciaExponente {
 

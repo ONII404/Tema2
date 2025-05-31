@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 10. Establece un programa recursivo que calcule la suma de los primeros n
  * números naturales.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act10_SumaNumerosNaturales {
 

@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 23. Programa con una función recursiva que cuente cuántos elementos de un arreglo
  * con X elementos enteros son mayores que un valor dado.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act23_ContarMayores {
 

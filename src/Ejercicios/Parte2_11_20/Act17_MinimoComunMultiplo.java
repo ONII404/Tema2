@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 17. Programa con una función recursiva que calcule el mínimo común múltiplo
  * de dos números enteros.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act17_MinimoComunMultiplo {
 

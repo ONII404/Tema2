@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 3. Diseña una función recursiva que permita invertir una cadena de
  * caracteres.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act03_InvertirCadena {
 

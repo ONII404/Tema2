@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 19. Programa con método recursivo que genere la secuencia de Collatz para un
  * número inicial dado.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act19_SecuenciaCollatz {
 

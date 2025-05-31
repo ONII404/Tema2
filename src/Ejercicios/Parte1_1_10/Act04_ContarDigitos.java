@@ -6,6 +6,7 @@ import java.util.Scanner;
  * 4. Propón un programa recursivo que cuente la cantidad de dígitos que
  * contiene un número entero.
  *
+ * Erick Humberto Rojas Teran.
  */
 public class Act04_ContarDigitos {
 

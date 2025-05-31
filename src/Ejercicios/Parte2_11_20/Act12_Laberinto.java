@@ -4,7 +4,7 @@ package Ejercicios.Parte2_11_20;
  * 12. Programa que encuentra una solución recursiva para recorrer un laberinto
  * representado por una matriz y hallar la salida.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act12_Laberinto {
 

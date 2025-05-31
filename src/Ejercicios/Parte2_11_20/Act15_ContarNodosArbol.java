@@ -4,7 +4,7 @@ package Ejercicios.Parte2_11_20;
  * 15. Programa con una función recursiva que cuente el número total de nodos en
  * un árbol binario.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act15_ContarNodosArbol {
 

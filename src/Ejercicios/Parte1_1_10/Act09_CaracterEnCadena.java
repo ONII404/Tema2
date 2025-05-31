@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 9. Propón una función recursiva que cuente cuántas veces aparece un carácter
  * determinado en una cadena.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act09_CaracterEnCadena {
 

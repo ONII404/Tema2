@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 6. Resuelve mediante un programa un problema de la torre de Hanoi para n
  * discos, especificando los movimientos necesarios.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act06_TorreHanoi {
 

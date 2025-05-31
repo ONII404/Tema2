@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 25. Programa con una función recursiva que calcule el producto de dos números
  * enteros sin utilizar el operador de multiplicación.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act25_ProductoSinMultiplicacion {
 

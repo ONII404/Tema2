@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 16. Programa que implementa una búsqueda binaria recursiva dentro de un
  * arreglo con X elementos enteros ordenado.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act16_BusquedaBinaria {
 

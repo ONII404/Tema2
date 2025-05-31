@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 8. Diseña una solución recursiva que encuentre el valor máximo dentro de un
  * arreglo de tamaño X.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act08_MaximoArreglo {
 
@@ -14,18 +14,20 @@ public class Act08_MaximoArreglo {
         Scanner scanner = new Scanner(System.in);
         System.out.print("¿Cuántos elementos tendrá el arreglo?: ");
         int n = scanner.nextInt();
-        int[] arr = new int[n];
+        int[] array = new int[n];
+
+        // Bucle pra llenar Array
         for (int i = 0; i < n; i++) {
             System.out.print("Elemento " + (i + 1) + ": ");
-            arr[i] = scanner.nextInt();
+            array[i] = scanner.nextInt();
         }
-        System.out.println("Máximo valor: " + maximo(arr, n - 1));
+        System.out.println("Máximo valor: " + maximo(array, n - 1));
     }
 
-    public static int maximo(int[] arr, int n) {
+    public static int maximo(int[] array, int n) {
         if (n == 0) {
-            return arr[0];
+            return array[0];
         }
-        return Math.max(arr[n], maximo(arr, n - 1));
+        return Math.max(array[n], maximo(array, n - 1));
     }
 }

@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 14. Programa con una función recursiva que convierta un número decimal a su
  * representación binaria.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act14_DecimalABinario {
 

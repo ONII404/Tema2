@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 5. Desarrolla un programa con un método recursivo que calcule la suma de
  * todos los elementos de un arreglo de X elementos enteros.
  *
- *
+ * Erick Humberto Rojas Teran.
  */
 public class Act05_SumaNumsArreglo {
 

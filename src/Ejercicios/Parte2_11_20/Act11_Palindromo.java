@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 11. Programa que determina si una palabra es un palíndromo utilizando recursividad.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act11_Palindromo {
 

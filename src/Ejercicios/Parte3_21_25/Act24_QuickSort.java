@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 24. Programa que ordena un arreglo de X enteros utilizando el algoritmo Quicksort
  * de forma recursiva.
  *
- * @author beehr
+ * Erick Humberto Rojas Teran.
  */
 public class Act24_QuickSort {
 
