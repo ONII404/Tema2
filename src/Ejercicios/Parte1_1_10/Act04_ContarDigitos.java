@@ -13,7 +13,7 @@ public class Act04_ContarDigitos {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingresa un número entero: ");
         int numero = scanner.nextInt();
-        System.out.println("Cantidad de dígitos: " + contarDigitos(Math.abs(numero)));
+        System.out.println("Cantidad de dígitos: " + contarDigitos(numero));
     }
 
     public static int contarDigitos(int n) {
