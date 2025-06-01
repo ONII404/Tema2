@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * 7. Realiza un programa con una función recursiva para calcular la potencia de
- * un número entero (base^exponente).",
+ * un número entero (base^exponente)."
  *
  * Erick Humberto Rojas Teran.
  */

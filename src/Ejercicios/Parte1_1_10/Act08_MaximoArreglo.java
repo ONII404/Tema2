@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Erick Humberto Rojas Teran.
  */
 public class Act08_MaximoArreglo {
-
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("¿Cuántos elementos tendrá el arreglo?: ");

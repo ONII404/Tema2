@@ -53,7 +53,6 @@ public class Act18_SumaMatrices {
             sumarMatrices(m1, m2, res, i + 1, 0);
             return;
         }
-
         res[i][j] = m1[i][j] + m2[i][j];
         sumarMatrices(m1, m2, res, i, j + 1);
     }

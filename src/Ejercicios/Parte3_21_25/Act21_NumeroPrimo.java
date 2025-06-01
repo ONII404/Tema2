@@ -9,7 +9,6 @@ import java.util.Scanner;
  * Erick Humberto Rojas Teran.
  */
 public class Act21_NumeroPrimo {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingresa un número entero: ");

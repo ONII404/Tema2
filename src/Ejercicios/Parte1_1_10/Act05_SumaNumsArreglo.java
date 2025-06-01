@@ -20,7 +20,7 @@ public class Act05_SumaNumsArreglo {
             System.out.print("Elemento " + (i + 1) + ": ");
             arreglo[i] = scanner.nextInt();
         }
-
+        
         System.out.println("Suma de los elementos: " + sumaArreglo(arreglo, n - 1));
     }
 
